@@ -1,33 +1,6 @@
 {
-  "name": "login.js",
-  "version": "0.0.0",
-  "description": "Class project.",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js",
-    "test": "No test specified."
-  },
-  "engines": {
-    "node": "16.x"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Rmhenderson3/boa-app.git"
-  },
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Rmhenderson3/boa-app/issues"
-  },
-  "homepage": "https://github.com/Rmhenderson3/boa-app#readme",
-  "keywords": [
-    "Schedule",
-    "UALR"
-  ],
-  "author": "Team C.A.P",
   "dependencies": {
-    "express": "^4.18.2",
-    "express-session": "^1.17.3",
-    "mysql": "^2.18.1"
-  },
-  "devDependencies": {}
+    "express-router": "^0.0.1",
+    "joi": "^17.7.0"
+  }
 }
